@@ -23,7 +23,7 @@ And of course, as it was being known for it also includes mass mod uploading.
 ## How to install? 
 1. First you need to install <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a><br><br>
 <strong>IF YOU ARE USING CHROME/EDGE/BRAVE - or any other chromium based browser</strong><br>
-Go to ``chrome://extensions/``, and at the top you will see an "Developer mode" checkbox, enable it like in the picture.
+Go to ``chrome://extensions/``, and at the top you will see an "Developer mode" checkbox, enable it like in the picture.<br><br>
 <img width="211" height="102" alt="image" src="https://github.com/user-attachments/assets/2dfb2d64-2907-44a9-83a5-6f6e6f5c32b3" /><br>
 2. Click <a href="https://github.com/l1806-vex/FZManager/raw/refs/heads/main/fzmanager.user.js">this link</a><br>
 3. Click install in Tampermonkey prompt
