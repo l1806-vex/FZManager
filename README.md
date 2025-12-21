@@ -35,5 +35,8 @@ Go to ``chrome://extensions/``, and at the top you will see an "Developer mode" 
 <br>
 <strong>You are done, enjoy!</strong>
 
+## Video tutorial
+<a href="https://www.youtube.com/watch?v=TpqUXNdTsaA">Click here</a>
+
 ## Contributions 
 If you see any mistake or you want to add a feature, you are welcome to create an PR. 
